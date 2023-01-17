@@ -11,6 +11,7 @@ aleksandr.kalabanov
 aleksandr.libkov
 aleksandr.shumov
 aleksandr.veselov
+aleksandr.manukyants
 aleksey.larin
 aleksey.rezvykh
 alina.arkhipova
@@ -29,6 +30,7 @@ danil.levinskiy
 dmitriy.borisov
 dmitriy.gudilin
 dmitriy.oshmarin
+dmitry.pavlov
 ekaterina.danilovich
 elena.bukueva
 eskender.dzhemadinov
