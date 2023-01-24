@@ -19,8 +19,7 @@
 - [Подключение к Yarn UI используя прокси](proxy.md)
 - [FlexiQuiz](https://www.flexiquiz.com)
 - [Календарь лекций](https://calendar.google.com/calendar/embed?src=c_cf6df68a0efdd2d524c0b49bbfd4dc3ae7794377377ae13a02d66f6be8fb8473%40group.calendar.google.com&ctz=Europe%2FMoscow)
-
-
+- [Инструкция Github](https://github.com/newprolab/sber-spark-ds-11/blob/main/git.md)
 
 ## Занятия
 | № | Дата | Лекция | Спикер |
